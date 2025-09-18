@@ -1,4 +1,4 @@
-# Ccreated a ML Projrct folder
+# created a ML Projrct folder
 
 # Creating a virtual environment
 # in windows is
@@ -20,3 +20,17 @@ cd backend
 pip install -r requirments.txt
 cd .. #come out of backend
 
+# git init
+# git add backend/ frontend/ README.MD
+# git commit -m "v1"
+
+git remote add origin https://github.com/mujeebr/Ml_Project_Bidar.git
+git branch -M main
+git push -u origin main
+
+
+# from second time
+
+git add modified files
+# git commit -m "v1"
+git push -u origin main
